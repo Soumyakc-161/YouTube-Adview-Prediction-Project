@@ -1,6 +1,4 @@
-Here's a detailed and engaging `README.md` file with emojis, placeholders for images, and a well-organized structure for your YouTube Adview Prediction project:
 
----
 
 # 🎬 YouTube Adview Prediction Project 🚀
 
