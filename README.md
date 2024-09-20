@@ -114,9 +114,11 @@ Thanks to the open-source community for providing useful tools and frameworks, a
 ![category](https://github.com/user-attachments/assets/db37f53a-5a08-4904-8694-4da637beedc3)
 
   - Adview :
+
 ![Adview](https://github.com/user-attachments/assets/ae0375c6-c54d-4d55-beb1-2bd60d1bf096)
 
   - Correlation :
+    
 ![Correlation](https://github.com/user-attachments/assets/d9e29443-db05-4ae4-972a-887fa23cc943)
 
 
@@ -124,5 +126,5 @@ Thanks to the open-source community for providing useful tools and frameworks, a
 ## 👤
 
 - **Soumya K C**  
-  - 📧 Email: your-email@example.com  
-  - 🌐 [GitHub](https://github.com/yourusername)
+  - 📧 Email: soumya.kc02@gmail.com  
+  - 🌐 [GitHub](https://github.com/Soumyakc-161)
